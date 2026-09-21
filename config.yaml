@@ -3,7 +3,7 @@ allow-lan: true
 mode: rule
 log-level: info
 ipv6: false
-dns:
+dns:擦擦
   enable: true
   enhanced-mode: fake-ip
   nameserver:
